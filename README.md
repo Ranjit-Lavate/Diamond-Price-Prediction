@@ -74,8 +74,8 @@ This project demonstrates how to use the **K-Nearest Neighbors (KNN) Regression*
 ## 👨‍💻 Author
 **Ranjit Chandrakant Lavate**  
 *Data Scientist | Machine Learning Enthusiast*  
-📧 [Add your email here]  
-🌐 [Add your GitHub profile link here]
+📧 ranjitlavate0118@gmail.com
+
 
 ---
 
