@@ -1,12 +1,12 @@
 # 💎 KNN Regression on Diamonds Dataset
 
-This project demonstrates how to use the **K-Nearest Neighbors (KNN) Regression** algorithm to predict the **price of diamonds** based on various features such as carat, cut, color, clarity, and other attributes. It includes data preprocessing, model training, and performance evaluation.
+This project demonstrates how to use the K-Nearest Neighbors (KNN) Regression algorithm to predict the price of diamonds based on various features such as carat, cut, color, clarity, and other attributes. It includes data preprocessing, model training, and performance evaluation.
 
 ---
 
 ## 📊 Dataset Information
 
-- **File Used:** `diamonds.csv`  
+- File Used: `diamonds.csv`  
 - The dataset contains the following features:
   - `carat`: Weight of the diamond
   - `cut`: Quality of the cut (Fair, Good, Very Good, Premium, Ideal)
@@ -65,15 +65,15 @@ This project demonstrates how to use the **K-Nearest Neighbors (KNN) Regression*
 ---
 
 ## ✨ Future Enhancements
-- Apply **GridSearchCV** for better hyperparameter tuning.  
-- Compare KNN with models like **Linear Regression** or **Random Forest**.  
-- Deploy the model as a simple web app using **Streamlit** or **Flask**.
+- Apply GridSearchCV for better hyperparameter tuning.  
+- Compare KNN with models like Linear Regression or Random Forest.  
+- Deploy the model as a simple web app using Streamlit or Flask.
 
 ---
 
 ## 👨‍💻 Author
-**Ranjit Chandrakant Lavate**  
-*Data Scientist | Machine Learning Enthusiast*  
+Ranjit Chandrakant Lavate 
+Data Scientist | Machine Learning Enthusiast*  
 📧 ranjitlavate0118@gmail.com
 
 
